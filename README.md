@@ -35,7 +35,7 @@
 
 
   
-  #### ```HAKI PROFILE VIEWS 🧚```
+  #### ```lunar PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/Allfathe/count.svg)
 
 <a><img src='https://i.imgur.com/lhgUVzS.jpeg'/></a><a><img src='https://i.imgur.com/lhgUVzS.jpeg'/></a>
