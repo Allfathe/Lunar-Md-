@@ -1,4 +1,25 @@
- 
+  # Lunar-Md
+   <a><img src='https://i.imgur.com/lhgUVzS.jpeg'/></a><a><img src='https://i.imgur.com/lhgUVzS.jpeg'/></a>
+<p align="center"> 
+<u>⚡ A simple WhatsApp User Bot Coded By lunar eclipse ⚡</u>
+</p>
+<p align="center">
+<img src="https://i.imgur.com/lhgUVzS.jpeg"/>       
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+Lunar-+MD-__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+Lunar Eclipse;RELEASED+DATE+18%2F6%2F2024." alt="Typing SVG" /></a>
+</p> 
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Lunar Eclipse-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Allfathe/Lunar-Md-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/github.com/Allfathe/Lunar-Md-?color=blue&style=flat-square"></a>
+<a href="https://github.com/Allfathe/Lunar-Md-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Allfathe/Lunar-Md-?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Allfathe/Lunar-Md-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Allfathe/Lunar-Md-?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Allfathe/Lunar-Md-/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
+</p>
+<a><img src='https://i.imgur.com/lhgUVzS.jpeg'/></a><a><img src='https://i.imgur.com/lhgUVzS.jpeg'/></a>
+#
+
  ## Deployment Methods
 
 ### 1. FORK THIS REPO
