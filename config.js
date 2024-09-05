@@ -6,20 +6,20 @@ global.audio = "www.youtube.com";
 global.video = "www.youtube.com";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "maxwellexcel2@gmail.com";
+global.email = "ayanfemakinde8@gmail.com";
 global.location = "Imo, Nigeria";
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://astrofx0011:astro@cluster0.lmwnxdt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github = process.env.GITHUB || "https://github.com/hakisolos/Queen_Nikka";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaqgxNt5q08c9XMItG3P";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaqgxNt5q08c9XMItG3P";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.imgur.com/zdD9xsf.mp4";
-global.devs = "2348121373516";
-global.sudo = process.env.SUDO || "2348121373516";
-global.owner = process.env.OWNER_NUMBER || "2348121373516";
+global.github = process.env.GITHUB || "https://github.com/Allfathe/Lunar-Md-";
+global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VajWenmGzzKYmalOGN0y";
+global.website = process.env.GURL || "https://whatsapp.com/channel/0029VajWenmGzzKYmalOGN0y";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.imgur.com/lhgUVzS.jpeg";
+global.devs = "2347032976237";
+global.sudo = process.env.SUDO || "2347032976237";
+global.owner = process.env.OWNER_NUMBER || "2347032976237";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -27,7 +27,7 @@ global.warncount = process.env.WARN_COUNT || 3;
 global.disablepm = process.env.DISABLE_PM || "false";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "false";
-global.userImages = process.env.USER_IMAGES || "https://i.imgur.com/zdD9xsf.mp4";
+global.userImages = process.env.USER_IMAGES || "https://i.imgur.com/lhgUVzS.jpeg";
 global.waPresence = process.env.WAPRESENCE || "available";
 global.readcmds = process.env.READ_COMMAND || "false";
 global.readmessage = process.env.READ_MESSAGE || "false";
@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "`QUEEN_NIKKA™`",
-  author: process.env.PACK_AUTHER || "QUEEN_NIKKA",
-  packname: process.env.PACK_NAME || "N I K K A",
-  botname: process.env.BOT_NAME || "QUEEN_NIKKA",
-  ownername: process.env.OWNER_NAME || "HAKI",
+  caption: process.env.CAPTION || "`lunar-md™`",
+  author: process.env.PACK_AUTHER || "Lunar-Md",
+  packname: process.env.PACK_NAME || "Lunar-Md",
+  botname: process.env.BOT_NAME || "Lunar-Md",
+  ownername: process.env.OWNER_NAME || "lunar",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
@@ -64,7 +64,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
-  LANG: (process.env.THEME || "N I K K A").toUpperCase(),
+  LANG: (process.env.THEME || "L U N A R").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = true;
@@ -75,3 +75,4 @@ fs.watchFile(file, () => {
   delete require.cache[file];
   require(file);
 });
+  
