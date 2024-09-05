@@ -1,13 +1,13 @@
 {
   "name": "Lunar-Md",
   "version": "2.5.0",
-  "description": "cool WhatsApp bot created by haki (inspired by star king).",
+  "description": "cool WhatsApp bot created by Lunar (inspired by lunar eclipse).",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "run": "pm2 start . --deep-monitoring --attach --name Queen_Nikka || node .",
-    "alya": "pm2 start . --deep-monitoring --attach --name Queen_Nikka || node .",
-    "start": "pm2 start . --attach --name Queen_Nikka",
+    "run": "pm2 start . --deep-monitoring --attach --name Lunar-Md || node .",
+    "alya": "pm2 start . --deep-monitoring --attach --name Lunar-Md || node .",
+    "start": "pm2 start . --attach --name Lunar-Md",
     "stop": "pm2 stop Lunar-Md",
     "heroku-postbuild": "git clone https://github.com/Allfathe/Lunar-Md- temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
     "fis-heroku-postbuild": "git clone https://github.com/Allfathe/Lunar-Md-.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
