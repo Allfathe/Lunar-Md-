@@ -10,16 +10,16 @@
             "UPDATED_LOCAL": "Updated Bot successfully"
         },  
         "global": {      
-            "botName": "QUEEN_ALYA",
+            "botName": "Lunar-Md",
             "body": "Simple WhatsApp Bot", 
             "greet2" : "GoodDay SIR",
-            "pic1": "https://telegra.ph/file/2c6582067485954d33200.jpg", 
-            "pic2": "https://telegra.ph/file/2c6582067485954d33200.jpg", 
-            "pic3": "https://telegra.ph/file/2c6582067485954d33200.jpg", 
-            "pic4": "https://telegra.ph/file/2c6582067485954d33200.jpg", 
-            "pic5": "https://telegra.ph/file/2c6582067485954d33200.jpg", 
-            "pic6": "https://telegra.ph/file/2c6582067485954d33200.jpg", 
-            "pic7": "https://telegra.ph/file/2c6582067485954d33200.jpg",
+            "pic1": "https://i.imgur.com/lhgUVzS.jpeg", 
+            "pic2": "https://i.imgur.com/lhgUVzS.jpeg", 
+            "pic3": "https://i.imgur.com/lhgUVzS.jpeg", 
+            "pic4": "https://i.imgur.com/lhgUVzS.jpeg", 
+            "pic5": "https://i.imgur.com/lhgUVzS.jpeg", 
+            "pic6": "https://i.imgur.com/lhgUVzS.jpeg", 
+            "pic7": "https://i.imgur.com/lhgUVzS.jpeg",
             "greet" : "Hey there",
             "dotbody" : "Oh hello My Creator.",
             "emojii" : "👸", 
@@ -51,4 +51,4 @@
             "text": "Dont touch me."
         }
     } 
-  }
+}
