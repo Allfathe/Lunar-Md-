@@ -532,7 +532,8 @@ tempmail.emailContent = async (_0x2bb874, _0x365dd7, _0x53af41) => {
     const _0x59fd31 = cheerio.load(_0x2d0a5f);
     const _0x492dcb = _0x59fd31.text();
     return _0x492dcb;
-  } catch (_0x47924ee);
+  } catch (_0x47924ee) {
+    console.log(_0x47924e);
     return null;
   }
 };
