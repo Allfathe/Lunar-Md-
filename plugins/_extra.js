@@ -184,7 +184,7 @@ smd({
         edit: _0x2d7cf6
       }, "asta", _0x4e7c63);
     } catch (_0x28ce7e) {}
-    let _0x50f17a = " *👸 QUEEN NIKKA- ＢＯＴ ＦＥＡＴＵＲＥ*\n\n\n  ◦ _Total Features 👉 " + _0x4cf8ed + "_\n  \n*◦ BOT FEATURES*\n\n      Plugins 👉 " + Object.values(_0x4de967.commands).filter(_0x54d4bf => _0x54d4bf.pattern).length + "_\n      _Msg Listener 👉 " + Object.values(_0x4de967.commands).filter(_0x2376a3 => _0x2376a3.on).length + "_\n      _Call Listener 👉 " + Object.values(_0x4de967.commands).filter(_0x54a19b => _0x54a19b.call).length + "_\n      _Group Listener 👉 " + Object.values(_0x4de967.commands).filter(_0x35381c => _0x35381c.group).length + "_\n  \n\n" + Config.caption;
+    let _0x50f17a = " *👸 Lunar-Md- ＢＯＴ ＦＥＡＴＵＲＥ*\n\n\n  ◦ _Total Features 👉 " + _0x4cf8ed + "_\n  \n*◦ BOT FEATURES*\n\n      Plugins 👉 " + Object.values(_0x4de967.commands).filter(_0x54d4bf => _0x54d4bf.pattern).length + "_\n      _Msg Listener 👉 " + Object.values(_0x4de967.commands).filter(_0x2376a3 => _0x2376a3.on).length + "_\n      _Call Listener 👉 " + Object.values(_0x4de967.commands).filter(_0x54a19b => _0x54a19b.call).length + "_\n      _Group Listener 👉 " + Object.values(_0x4de967.commands).filter(_0x35381c => _0x35381c.group).length + "_\n  \n\n" + Config.caption;
     await _0x4e7c63.bot.relayMessage(_0x4e7c63.chat, {
       requestPaymentMessage: {
         currencyCodeIso4217: "PK",
@@ -380,7 +380,7 @@ smd({
   try {
     let _0x587b99 = _0x41dfb5.split(" ")[0].trim();
     if (!_0x587b99) {
-      return await _0x4cdec8.reply("*Need URL! Use " + prefix + "ss https://github.com/STAR-KING0/QUEEN_ALYA*");
+      return await _0x4cdec8.reply("*Need URL! Use " + prefix + "ss https://github.com/Allfathe/Lunar-Md-*");
     }
     let _0x358290 = await ssweb(_0x587b99);
     if (_0x358290 && _0x358290.status == "200") {
@@ -394,7 +394,7 @@ smd({
     await _0x4cdec8.error(_0x126b07 + "\n\ncommand : myip", _0x126b07, "*Request Denied!*");
   }
 });
-let tmpUrl = "https://telegra.ph/file/b8e96b599e0fa54d25940.jpg";
+let tmpUrl = "https://i.imgur.com/lhgUVzS.jpeg";
 const secmailData = {};
 smd({
   pattern: "tempmail",
@@ -532,8 +532,7 @@ tempmail.emailContent = async (_0x2bb874, _0x365dd7, _0x53af41) => {
     const _0x59fd31 = cheerio.load(_0x2d0a5f);
     const _0x492dcb = _0x59fd31.text();
     return _0x492dcb;
-  } catch (_0x47924e) {
-    console.log(_0x47924e);
+  } catch (_0x47924ee);
     return null;
   }
 };
